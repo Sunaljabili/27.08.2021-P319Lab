@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\obj\Debug\netcoreapp3.1\Task3_Sunal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\obj\Debug\netcoreapp3.1\Task3_Sunal.AssemblyInfo.cs
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\bin\Debug\netcoreapp3.1\Task3_Sunal.exe
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\bin\Debug\netcoreapp3.1\Task3_Sunal.deps.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\bin\Debug\netcoreapp3.1\Task3_Sunal.runtimeconfig.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\bin\Debug\netcoreapp3.1\Task3_Sunal.runtimeconfig.dev.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\bin\Debug\netcoreapp3.1\Task3_Sunal.dll
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\bin\Debug\netcoreapp3.1\Task3_Sunal.pdb
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\obj\Debug\netcoreapp3.1\Task3_Sunal.dll
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\obj\Debug\netcoreapp3.1\Task3_Sunal.pdb
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task3_Sunal\obj\Debug\netcoreapp3.1\Task3_Sunal.csprojAssemblyReference.cache

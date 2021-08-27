@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\bin\Debug\netcoreapp3.1\Task2_Vahid.exe
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\bin\Debug\netcoreapp3.1\Task2_Vahid.deps.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\bin\Debug\netcoreapp3.1\Task2_Vahid.runtimeconfig.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\bin\Debug\netcoreapp3.1\Task2_Vahid.runtimeconfig.dev.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\bin\Debug\netcoreapp3.1\Task2_Vahid.dll
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\bin\Debug\netcoreapp3.1\Task2_Vahid.pdb
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\obj\Debug\netcoreapp3.1\Task2_Vahid.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\obj\Debug\netcoreapp3.1\Task2_Vahid.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\obj\Debug\netcoreapp3.1\Task2_Vahid.AssemblyInfo.cs
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\obj\Debug\netcoreapp3.1\Task2_Vahid.dll
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\Task2_Vahid\obj\Debug\netcoreapp3.1\Task2_Vahid.pdb

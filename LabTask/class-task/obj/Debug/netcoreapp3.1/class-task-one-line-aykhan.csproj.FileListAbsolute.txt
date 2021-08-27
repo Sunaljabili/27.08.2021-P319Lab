@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\bin\Debug\netcoreapp3.1\class-task-one-line-aykhan.exe
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\bin\Debug\netcoreapp3.1\class-task-one-line-aykhan.deps.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\bin\Debug\netcoreapp3.1\class-task-one-line-aykhan.runtimeconfig.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\bin\Debug\netcoreapp3.1\class-task-one-line-aykhan.runtimeconfig.dev.json
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\bin\Debug\netcoreapp3.1\class-task-one-line-aykhan.dll
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\bin\Debug\netcoreapp3.1\class-task-one-line-aykhan.pdb
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\obj\Debug\netcoreapp3.1\class-task-one-line-aykhan.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\obj\Debug\netcoreapp3.1\class-task-one-line-aykhan.AssemblyInfo.cs
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\obj\Debug\netcoreapp3.1\class-task-one-line-aykhan.dll
+C:\Users\HP\Desktop\P319-LAB\27.08.2021P319Lab\LabTask\class-task\obj\Debug\netcoreapp3.1\class-task-one-line-aykhan.pdb
